@@ -9,7 +9,6 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #e5e5f7;
-
   background-image: radial-gradient(#5880c4 0.5px, transparent 0.5px),
     radial-gradient(#5880c4 0.5px, #e5e5f7 0.5px);
   background-size: 20px 20px;
